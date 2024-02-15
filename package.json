@@ -25,7 +25,7 @@
     "dev:node": "npx concurrently --names \"frontend,backend\" \"REACT_APP_API_ENDPOINT='http://localhost:3001/api' npx react-scripts start\" \"PLATFORM='node' DISABLE_GUI='true' PORT='3001' API_CORS_ORIGIN='*' npx nodemon server\""
   },
   "dependencies": {
-    "@netlify/functions": "^1.6.0",
+    "@netlify/functions": "^2.0.0",
     "@sentry/react": "^7.60.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.0.0",
