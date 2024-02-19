@@ -12,7 +12,7 @@ jobs:
     name: Inserts Sponsors 💓
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Updates readme with sponsors
         uses: JamesIves/github-sponsors-readme-action@v1.3.1
         with:
