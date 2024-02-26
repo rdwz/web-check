@@ -7805,9 +7805,9 @@ cross-spawn@^7.0.0, cross-spawn@^7.0.2, cross-spawn@^7.0.3:
     which "^2.0.1"
 
 crossws@^0.2.0, crossws@^0.2.2:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/crossws/-/crossws-0.2.3.tgz#5ec4f8a60633a9206a7035a36ba10fb8ee0fdd86"
-  integrity sha512-bAdbYPj/ej8+WCVRVnjEr54WYI/LncI25G/pJPZteO2CXUQFrhj5IOCscw9qsYKGKTWs9NkimUtTjdp9SoLD9A==
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/crossws/-/crossws-0.2.4.tgz#82a8b518bff1018ab1d21ced9e35ffbe1681ad03"
+  integrity sha512-DAxroI2uSOgUKLz00NX6A8U/8EE3SZHmIND+10jkVSaypvyt57J5JEOxAQOL6lQxyzi/wZbTIwssU1uy69h5Vg==
 
 crypto-random-string@^2.0.0:
   version "2.0.0"
@@ -13784,9 +13784,9 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0, nested-error-stacks@^2.1
   integrity sha512-9iN1ka/9zmX1ZvLV9ewJYEk9h7RyRRtqdK0woXcqohu8EWIerfPUjYJPg0ULy0UqP7cslmdGc8xKDJcojlKiaw==
 
 netlify-cli@^17.0.0:
-  version "17.17.0"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-17.17.0.tgz#ca0ed39383d73c9241cf33f505c91e35f2563cfc"
-  integrity sha512-dM15h9PeWmZaxiwkrrDCgpIQpBtnomwQdsgSync7yQHl0XcxSa78K3P5GbugdHkLqi7mq0GaXez9QDbVFXcTsA==
+  version "17.17.1"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-17.17.1.tgz#26df19cab771034025f0948aca93a8fa3c8a32e4"
+  integrity sha512-jn0KPVKDnLnpm8vytmUgG36AjdOKQVQ8qnWzm3lOPNtpX37W8j38PK/m5+C4ZXLLwVbwe8e4ZRNajDFBB3M1AA==
   dependencies:
     "@bugsnag/js" "7.20.2"
     "@fastify/static" "6.10.2"
